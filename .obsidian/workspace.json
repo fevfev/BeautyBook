@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "e427f66beb15416b",
+    "type": "split",
+    "children": [
+      {
+        "id": "136e58dcf5dd0916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc96faa64a84e0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme.md"
+            }
+          },
+          {
+            "id": "e6f7a91aee8f372e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme.md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e62e7edd7e826289",
+    "type": "split",
+    "children": [
+      {
+        "id": "0af58321d729a1fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8dbba544ab3a75f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "baeb7c62d842b831",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8d969cdf2dc823e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5633210168786d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a89e7ab4fa27f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "729da897140627f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Readme.md"
+            }
+          },
+          {
+            "id": "eacd4a9cdd77292b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Readme.md"
+            }
+          },
+          {
+            "id": "ffb5ddb1f305bf30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "87d3583726ab4094",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Readme.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e6f7a91aee8f372e",
+  "lastOpenFiles": [
+    "sql.png",
+    "Readme.md.md",
+    "ppt.png",
+    "doc.png",
+    "Снимок экрана 2025-06-20 180309.png",
+    "Снимок экрана 2025-06-20 180300.png",
+    "Отчет по проекту_ Мобильное приложение BeautyBook.docx",
+    "Отчет по проекту_ Мобильное приложение BeautyBook (2).docx",
+    "KMP.webp",
+    "Не подтверждено 437127.~",
+    "MVVM.png",
+    "Снимок экрана 2025-06-20 175934.png",
+    "Отчет по проекту_ Мобильное приложение BeautyBook (1).docx",
+    "app/src/androidTest/java/com/students/salonapp/navigation/NavGraphTest.kt",
+    "app/src/androidTest/java/com/students/salonapp/navigation",
+    "app/src/androidTest/java/com/students/salonapp/data/local/ServiceRoomRepositoryTest.kt",
+    "app/src/androidTest/java/com/students/salonapp/data/local/MasterRoomRepositoryTest.kt",
+    "app/src/androidTest/java/com/students/salonapp/data/local/BookingRoomRepositoryTest.kt",
+    "app/src/androidTest/java/com/students/salonapp/data/local/ServiceDaoTest.kt",
+    "app/build/intermediates/packaged_res/release/packageReleaseResources/mipmap-xxxhdpi-v4/ic_launcher_foreground.webp",
+    "app/build/intermediates/packaged_res/release/packageReleaseResources/mipmap-xxxhdpi-v4/ic_launcher_round.webp",
+    "app/build/intermediates/packaged_res/release/packageReleaseResources/mipmap-xxxhdpi-v4/ic_launcher.webp"
+  ]
+}
